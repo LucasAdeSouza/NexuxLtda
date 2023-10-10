@@ -1,0 +1,22 @@
+@import url("style.css");
+
+body > main > a > section.card {
+  display: flex;
+  font-size: 0.8rem;
+  text-align: justify;
+  background-color: #F4F4F4;
+  box-shadow: none;
+  margin-top: 1.68rem;
+  border-radius: 0.94rem;
+}
+
+ol > li{
+  list-style: none;
+}
+
+body > main > a > section.card > img {
+  width: 7.68rem;
+  height: 7.68rem;
+  margin-right: 1rem;
+}
+
