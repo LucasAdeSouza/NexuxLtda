@@ -1,0 +1,58 @@
+@import url("style.css");
+
+body > article {
+    background-image: url("../imgs/fonte.jpg");
+    width: 22.5rem;
+    height: 11.25rem;
+    flex-shrink: 0;
+}
+
+body > ol > li{
+    margin: 0.87rem;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    text-align: justify;
+    font-family: "Poppins";
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    list-style: decimal;
+}
+
+body > nav > span{
+    text-decoration: none;
+}
+
+body > ol > p{
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    text-align: justify;
+    font-family: "Poppins";
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    list-style: decimal;
+}
+
+
+body > h2{
+    margin-top: 1rem;
+    text-align: center;
+    font-size: 1.2rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    
+}
+
+body > p{
+    margin: 0.87rem;
+    text-align: justify;
+    font-family: "Poppins";
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
